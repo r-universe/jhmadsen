@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "DDoutlier",
+    "oncran": true
+  }
+]
